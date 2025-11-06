@@ -185,4 +185,11 @@ footer {
   .education-list p {
     font-size: 15px;
   }
+  .skill-container {
+    padding: 20px 15px;
+  }
+  .skills-list {
+    flex-direction: column;
+    gap: 15px;
+  }
 }
